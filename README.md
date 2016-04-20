@@ -12,6 +12,7 @@ Feel free to contribute :smile:
 ## Clients
 
 * [tux3/qTox](https://github.com/zetok/qTox) – most powerful Tox client, written in C++/Qt.
+* [JFreegman/toxic](https://github.com/JFreegman/toxic) – Ncurses-based CLI client.
 * [GrayHatter/uTox](https://github.com/GrayHatter/uTox) – "lightweight", written in "STR8C" Tox client.
 
 ## Documentation
