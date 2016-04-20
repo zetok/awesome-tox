@@ -34,3 +34,5 @@ Feel free to contribute :smile:
 ## Utilities
 
 * [zetok/tox-add-pubkey](https://github.com/zetok/tox-add-pubkey) – a command line utility to add public key to the `.tox` profile.
+* [gjedeer/tuntox](https://github.com/gjedeer/tuntox) – forwarding TCP connections over Tox.
+* [cleverca22/toxvpn](https://github.com/cleverca22/toxvpn/) – point to point tunneling (VPN) over Tox.
