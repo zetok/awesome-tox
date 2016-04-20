@@ -1,6 +1,6 @@
 # Awesome Tox
 
-A list of Tox projects & resources, for users & coders. Inspired by other awesome lists.
+A list of Tox projects & resources. Inspired by other awesome lists.
 
 Feel free to contribute :smile:
 
@@ -11,6 +11,8 @@ Feel free to contribute :smile:
 
 ## Clients
 
+* [Antidote-for-Tox/Antidote](https://github.com/Antidote-for-Tox/Antidote) – iOS Tox client.
+* [Antox/Antox](https://github.com/Antox/Antox) – Android Tox client.
 * [tux3/qTox](https://github.com/zetok/qTox) – most powerful Tox client, written in C++/Qt.
 * [JFreegman/toxic](https://github.com/JFreegman/toxic) – Ncurses-based CLI client.
 * [GrayHatter/uTox](https://github.com/GrayHatter/uTox) – "lightweight", written in "STR8C" Tox client.
