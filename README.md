@@ -20,8 +20,15 @@ Feel free to contribute :smile:
 
 ## toxcore implementations
 
+* [TokTok/hstox](https://github.com/TokTok/hstox) – a Haskell implementation.
 * [irungentoo/toxcore](https://github.com/irungentoo/toxcore) – original implementation of Tox protocol, written in C.
 * [zetok/tox](https://github.com/zetok/tox) – zetox toxcore implementation, written in Rust.
+
+## toxcore wrappers
+
+* [saneki/node-toxcore](https://github.com/saneki/node-toxcore) – Node.js wrapper for toxcore.
+* [codedust/go-tox](https://github.com/codedust/go-tox) – Go wrapper for toxcore.
+* [abbat/pytoxcore](https://github.com/abbat/pytoxcore) – Python wrapper for toxcore.
 
 ## Utilities
 
