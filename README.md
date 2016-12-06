@@ -6,11 +6,16 @@ Feel free to contribute :smile:
 
 ## Bots
 
+* [JFreegman/rustybot](https://github.com/JFreegman/rustybot) 
+* [JFreegman/ToxBot](https://github.com/JFreegman/ToxBot/) Groupchat bot written in C.
+* [Impyy/EchoBot](https://github.com/Impyy/EchoBot)
 * [zetok/Lee](https://github.com/zetok/Lee) – inhumanly intelligent markov bot written in Rust; supports groupchats and 1v1 conversations. [<img src="https://travis-ci.org/zetok/Lee.svg?branch=master">](https://travis-ci.org/zetok/Lee)
 * [zetok/tox-neurological-warfare-bot](https://github.com/zetok/tox-neurological-warfare-bot) – spambot that delivers all the spam you desire upon request. [<img src="https://travis-ci.org/zetok/tox-neurological-warfare-bot.svg?branch=master">](https://travis-ci.org/zetok/tox-neurological-warfare-bot)
+* [zodiaclabs/CSbot](https://github.com/zodiaclabs/CSbot) (toxbot fork)
 
 ## Clients
 
+More details on https://tox.chat/clients.html
 * [Antidote-for-Tox/Antidote](https://github.com/Antidote-for-Tox/Antidote) – iOS Tox client. [<img src="https://travis-ci.org/Antidote-for-Tox/Antidote.svg?branch=master">](https://travis-ci.org/Antidote-for-Tox/Antidote)
 * [Antox/Antox](https://github.com/Antox/Antox) – Android Tox client. [<img src="https://travis-ci.org/Antox/Antox.svg?branch=master">](https://travis-ci.org/Antox/Antox)
 * [qTox/qTox](https://github.com/qTox/qTox) – most feature-rich Tox client, written in C++/Qt. [<img src="https://travis-ci.org/qTox/qTox.svg?branch=master">](https://travis-ci.org/qTox/qTox)
