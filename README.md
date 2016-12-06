@@ -13,19 +13,19 @@ Feel free to contribute :smile:
 
 * [Antidote-for-Tox/Antidote](https://github.com/Antidote-for-Tox/Antidote) – iOS Tox client. [<img src="https://travis-ci.org/Antidote-for-Tox/Antidote.svg?branch=master">](https://travis-ci.org/Antidote-for-Tox/Antidote)
 * [Antox/Antox](https://github.com/Antox/Antox) – Android Tox client. [<img src="https://travis-ci.org/Antox/Antox.svg?branch=master">](https://travis-ci.org/Antox/Antox)
-* [tux3/qTox](https://github.com/tux3/qTox) – most feature-rich Tox client, written in C++/Qt. [<img src="https://travis-ci.org/tux3/qTox.svg?branch=master">](https://travis-ci.org/tux3/qTox)
+* [qTox/qTox](https://github.com/qTox/qTox) – most feature-rich Tox client, written in C++/Qt. [<img src="https://travis-ci.org/qTox/qTox.svg?branch=master">](https://travis-ci.org/qTox/qTox)
 * [JFreegman/toxic](https://github.com/JFreegman/toxic) – Ncurses-based CLI client. [<img src="https://travis-ci.org/JFreegman/toxic.svg?branch=master">](https://travis-ci.org/JFreegman/toxic)
-* [GrayHatter/uTox](https://github.com/GrayHatter/uTox) – "lightweight" Tox client written in "STR8C". [<img src="https://travis-ci.org/GrayHatter/uTox.svg?branch=master">](https://travis-ci.org/GrayHatter/uTox)
+* [uTox/uTox](https://github.com/uTox/uTox) – "lightweight" Tox client written in "STR8C". [<img src="https://travis-ci.org/uTox/uTox.svg?branch=master">](https://travis-ci.org/uTox/uTox)
 
 ## Documentation
 
-* [TokTok/tox-spec](https://github.com/TokTok/tox-spec) – refined Tox protocol specification. [<img src="https://travis-ci.org/TokTok/tox-spec.svg?branch=master">](https://travis-ci.org/TokTok/tox-spec)
+* [zetok/tox-spec](https://github.com/zetok/tox-spec) – refined Tox protocol specification. [<img src="https://travis-ci.org/zetok/tox-spec.svg?branch=master">](https://travis-ci.org/zetok/tox-spec)
 
 ## toxcore implementations
 
 * [TokTok/hstox](https://github.com/TokTok/hstox) – Haskell implementation. [<img src="https://travis-ci.org/TokTok/hstox.svg?branch=master">](https://travis-ci.org/TokTok/hstox)
-* [irungentoo/toxcore](https://github.com/irungentoo/toxcore) – original implementation of Tox protocol, written in C. [<img src="https://travis-ci.org/irungentoo/toxcore.svg?branch=master">](https://travis-ci.org/irungentoo/toxcore)
-* [zetok/tox](https://github.com/zetok/tox) – zetox toxcore implementation, written in Rust. [<img src="https://travis-ci.org/zetok/tox.svg?branch=master">](https://travis-ci.org/zetok/tox)
+* [TokTok/c-toxcore](https://github.com/TokTok/c-toxcore) – implementation of Tox protocol written in C. [<img src="https://travis-ci.org/TokTok/c-toxcore.svg?branch=master">](https://travis-ci.org/TokTok/c-toxcore)
+* [zetok/tox](https://github.com/zetok/tox) – zetox toxcore implementation written in Rust. [<img src="https://travis-ci.org/zetok/tox.svg?branch=master">](https://travis-ci.org/zetok/tox)
 
 ## toxcore wrappers
 
