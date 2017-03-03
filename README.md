@@ -16,6 +16,7 @@ Feel free to contribute :smile:
 * [qTox/qTox](https://github.com/qTox/qTox) – most feature-rich Tox client, written in C++/Qt. [<img src="https://travis-ci.org/qTox/qTox.svg?branch=master">](https://travis-ci.org/qTox/qTox)
 * [JFreegman/toxic](https://github.com/JFreegman/toxic) – Ncurses-based CLI client. [<img src="https://travis-ci.org/JFreegman/toxic.svg?branch=master">](https://travis-ci.org/JFreegman/toxic)
 * [uTox/uTox](https://github.com/uTox/uTox) – "lightweight" Tox client written in "STR8C". [<img src="https://travis-ci.org/uTox/uTox.svg?branch=master">](https://travis-ci.org/uTox/uTox)
+* [ratox](http://git.z3bra.org/ratox/log.html) – file-system based client, originally started by the 2f30 project.
 
 ## Documentation
 
